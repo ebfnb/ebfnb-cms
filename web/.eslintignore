@@ -1,6 +1,6 @@
 core/**/*
 vendor/**/*
-sites/**/files/**/*
+files/**/*
 libraries/**/*
 sites/**/libraries/**/*
 profiles/**/libraries/**/*
